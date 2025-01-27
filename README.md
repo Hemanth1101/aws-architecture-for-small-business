@@ -8,7 +8,7 @@ This repository showcases an AWS architecture designed for small businesses like
 - Real-time inventory tracking
 - Business analytics and insights
 
-![AWS Architecture Diagram]([AWS architecture for small businesses.drawio.png](https://github.com/Hemanth1101/aws-architecture-for-small-business/blob/54a0f4860ff5c150fc6c5ba14b7a501b6279914b/AWS%20architecture%20for%20small%20businesses.drawio.png))
+![AWS Architecture Diagram](https://github.com/Hemanth1101/aws-architecture-for-small-business/blob/54a0f4860ff5c150fc6c5ba14b7a501b6279914b/AWS%20architecture%20for%20small%20businesses.drawio.png))
 
 ---
 
