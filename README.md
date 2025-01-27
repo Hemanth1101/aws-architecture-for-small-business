@@ -8,7 +8,7 @@ This repository showcases an AWS architecture designed for small businesses like
 - Real-time inventory tracking
 - Business analytics and insights
 
-![AWS Architecture Diagram](AWS_Restaurant_Architecture.png)
+![AWS Architecture Diagram](AWS architecture for small businesses.drawio.png)
 
 ---
 
