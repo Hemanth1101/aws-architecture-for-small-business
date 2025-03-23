@@ -6,7 +6,7 @@ aws-architecture-for-small-business
 This repository showcases an AWS architecture designed for small businesses like restaurants, convenience stores (e.g., 7-Eleven, Tom Thumb), and other retail shops. The architecture leverages AWS services to provide scalable, secure, and cost-effective solutions for:
 - Online ordering and customer management
 - Real-time inventory tracking
-- Business analytics and insights
+- Business analytics and insights.
 
 ![AWS Architecture Diagram](https://github.com/Hemanth1101/aws-architecture-for-small-business/blob/54a0f4860ff5c150fc6c5ba14b7a501b6279914b/AWS%20architecture%20for%20small%20businesses.drawio.png))
 
